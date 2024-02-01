@@ -5,7 +5,7 @@ formulaone:
     message: "Welcome to the FormulaOne QA API"
     contactDetails: 
         name: "John Doe - Developer"
-        email: "john@eazybank.com"
+        email: "{cipher}3a90ef3658e0df0fbb14ca859eee571152ac0388c3efd1edc33da7c79084ef87f8c67327b34545981577420f32f2daf4"
     onCallSuport:
         - (555) 555-1234
         - (555) 523-1345
