@@ -2,7 +2,7 @@ build:
     version: "2.0"
 
 formulaone:
-    message: "Welcome to the FormulaOne QA API"
+    message: "Welcome to the FormulaOne GitHub QA API"
     contactDetails: 
         name: "John Doe - Developer"
         email: "{cipher}3a90ef3658e0df0fbb14ca859eee571152ac0388c3efd1edc33da7c79084ef87f8c67327b34545981577420f32f2daf4"
